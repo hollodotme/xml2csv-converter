@@ -1,0 +1,523 @@
+﻿<?xml version="1.0" encoding="utf-8"?><ONIXMessage release="3.0" xmlns="http://ns.editeur.org/onix/3.0/reference">
+  <Header>
+    <Sender>
+      <SenderIdentifier>
+        <SenderIDType>01</SenderIDType>
+        <IDValue>BR101</IDValue>
+      </SenderIdentifier>
+      <EmailAddress>info@bokinfo.se</EmailAddress>
+    </Sender>
+    <SentDateTime>20180915</SentDateTime>
+    <DefaultCurrencyCode>SEK</DefaultCurrencyCode>
+  </Header>
+  <Product>
+    <RecordReference>9789186907228</RecordReference>
+    <NotificationType>02</NotificationType>
+    <ProductIdentifier>
+      <ProductIDType>15</ProductIDType>
+      <IDValue>9789186907228</IDValue>
+    </ProductIdentifier>
+    <ProductIdentifier>
+      <ProductIDType>03</ProductIDType>
+      <IDValue>9789186907228</IDValue>
+    </ProductIdentifier>
+    <DescriptiveDetail>
+      <ProductComposition>00</ProductComposition>
+      <ProductForm>BE</ProductForm>
+      <TitleDetail>
+        <TitleType>01</TitleType>
+        <TitleElement>
+          <TitleElementLevel>01</TitleElementLevel>
+          <TitleText>Min Bucket List - Allt jag ska göra innan de släcker lyset</TitleText>
+        </TitleElement>
+      </TitleDetail>
+      <TitleDetail>
+        <TitleType>10</TitleType>
+        <TitleElement>
+          <TitleElementLevel>01</TitleElementLevel>
+          <TitleText>Min Bucket List - Allt jag ska göra innan de släcker lyset</TitleText>
+        </TitleElement>
+      </TitleDetail>
+      <Contributor>
+        <SequenceNumber>1</SequenceNumber>
+        <ContributorRole>A01</ContributorRole>
+        <PersonNameInverted>Ekberg, Stefan</PersonNameInverted>
+        <NamesBeforeKey>Stefan</NamesBeforeKey>
+        <KeyNames>Ekberg</KeyNames>
+        <ContributorDate>
+          <ContributorDateRole>50</ContributorDateRole>
+          <Date dateformat="05">1965</Date>
+        </ContributorDate>
+      </Contributor>
+      <EditionNumber>0</EditionNumber>
+      <Language>
+        <LanguageRole>01</LanguageRole>
+        <LanguageCode>swe</LanguageCode>
+      </Language>
+      <Extent>
+        <ExtentType>00</ExtentType>
+        <ExtentValue>240</ExtentValue>
+        <ExtentUnit>03</ExtentUnit>
+      </Extent>
+      <Illustrated>02</Illustrated>
+      <AncillaryContent>
+        <AncillaryContentType>00</AncillaryContentType>
+        <AncillaryContentDescription>Number of illustrated pages</AncillaryContentDescription>
+        <Number>20</Number>
+      </AncillaryContent>
+      <Subject>
+        <SubjectSchemeIdentifier>47</SubjectSchemeIdentifier>
+        <SubjectCode>36</SubjectCode>
+        <SubjectHeadingText>Hälsa, skönhet och sex</SubjectHeadingText>
+      </Subject>
+      <Subject>
+        <SubjectSchemeIdentifier>48</SubjectSchemeIdentifier>
+        <SubjectCode>Dokb</SubjectCode>
+      </Subject>
+      <Subject>
+        <SubjectSchemeIdentifier>93</SubjectSchemeIdentifier>
+        <SubjectCode>VS</SubjectCode>
+      </Subject>
+    </DescriptiveDetail>
+    <CollateralDetail>
+      <TextContent>
+        <TextType>03</TextType>
+        <ContentAudience>00</ContentAudience>
+        <Text>Har du tänkt på hur många människor som pratar om sin "bucket list" utan att egentligen ha en på riktigt?
+
+- Det där ska med på min Bucket list, säger folk lite kaxigt när det dyker upp en video om någon som klättrat baklänges uppför Mount Everest, tagit selfies med de stora kattdjuren eller bara lagat mat från grunden en gång i livet.
+
+Tolv sekunder senare...
+- Titta, vad är det som blänker där borta?
+
+Och så har de glömt allt.
+
+Det finns ingen nedskriven plan för att göra de där drömgrejorna. Det är bara ord, lika flyktiga som en avlöning i december. Den där listan man kan ta på, titta på, drömma sig bort i finns inte, eller rättare sagt, fanns inte.
+
+För nu finns den.
+
+I den här boken får du inte bara flera hundra idéer om vad du skulle kunna ha på din egen bucket list, du får också mål och drömmar uppdelade i 25 kapitel inom livets alla områden där du själv kan skriva ner vad du vill göra. Ja, och när du planerar att göra det och till och med bocka av när du har gjort det.
+
+Den perfekta presenten till dig själv eller någon annan du verkligen tycker om</Text>
+      </TextContent>
+      <TextContent>
+        <TextType>02</TextType>
+        <ContentAudience>00</ContentAudience>
+        <Text>Boken som hjälper dig att skapa din egen lista över mål, drömmar och önskningar som du vill förverkliga i ditt liv.</Text>
+      </TextContent>
+      <SupportingResource>
+        <ResourceContentType>01</ResourceContentType>
+        <ContentAudience>00</ContentAudience>
+        <ResourceMode>03</ResourceMode>
+        <ResourceVersion>
+          <ResourceForm>02</ResourceForm>
+          <ResourceLink>https://www.redaktionen.se/imagebank/899.gif</ResourceLink>
+        </ResourceVersion>
+      </SupportingResource>
+    </CollateralDetail>
+    <PublishingDetail>
+      <Publisher>
+        <PublishingRole>01</PublishingRole>
+        <PublisherIdentifier>
+          <PublisherIDType>01</PublisherIDType>
+          <IDTypeName>BR-ID</IDTypeName>
+          <IDValue>4045</IDValue>
+        </PublisherIdentifier>
+        <PublisherIdentifier>
+          <PublisherIDType>01</PublisherIDType>
+          <IDTypeName>Forlag_kortnamn</IDTypeName>
+          <IDValue>EFIS</IDValue>
+        </PublisherIdentifier>
+        <PublisherName>Ego förlag i Stockholm</PublisherName>
+      </Publisher>
+      <PublishingDate>
+        <PublishingDateRole>01</PublishingDateRole>
+        <Date>20180910</Date>
+      </PublishingDate>
+    </PublishingDetail>
+    <ProductSupply>
+      <SupplyDetail>
+        <Supplier>
+          <SupplierRole>02</SupplierRole>
+          <SupplierIdentifier>
+            <SupplierIDType>01</SupplierIDType>
+            <IDTypeName>BR-ID</IDTypeName>
+            <IDValue>4045</IDValue>
+          </SupplierIdentifier>
+          <SupplierIdentifier>
+            <SupplierIDType>01</SupplierIDType>
+            <IDTypeName>Distributor_kortnamn</IDTypeName>
+            <IDValue>EFIS</IDValue>
+          </SupplierIdentifier>
+          <SupplierName>Ego förlag i Stockholm</SupplierName>
+        </Supplier>
+        <ProductAvailability>21</ProductAvailability>
+        <Stock>
+          <OnHand>999</OnHand>
+        </Stock>
+        <Price>
+          <PriceType>05</PriceType>
+          <PriceAmount>240.00</PriceAmount>
+          <Tax>
+            <TaxType>01</TaxType>
+            <TaxRatePercent>6</TaxRatePercent>
+          </Tax>
+        </Price>
+      </SupplyDetail>
+    </ProductSupply>
+    </Product>
+  <Product>
+    <RecordReference>9789163980749</RecordReference>
+    <NotificationType>02</NotificationType>
+    <ProductIdentifier>
+      <ProductIDType>15</ProductIDType>
+      <IDValue>9789163980749</IDValue>
+    </ProductIdentifier>
+    <ProductIdentifier>
+      <ProductIDType>03</ProductIDType>
+      <IDValue>9789163980749</IDValue>
+    </ProductIdentifier>
+    <DescriptiveDetail>
+      <ProductComposition>00</ProductComposition>
+      <ProductForm>BC</ProductForm>
+      <ProductFormDetail>B504</ProductFormDetail>
+      <Measure>
+        <MeasureType>02</MeasureType>
+        <Measurement>12</Measurement>
+        <MeasureUnitCode>mm</MeasureUnitCode>
+      </Measure>
+      <Measure>
+        <MeasureType>01</MeasureType>
+        <Measurement>17</Measurement>
+        <MeasureUnitCode>mm</MeasureUnitCode>
+      </Measure>
+      <Measure>
+        <MeasureType>03</MeasureType>
+        <Measurement>10</Measurement>
+        <MeasureUnitCode>mm</MeasureUnitCode>
+      </Measure>
+      <CountryOfManufacture>EE</CountryOfManufacture>
+      <TitleDetail>
+        <TitleType>01</TitleType>
+        <TitleElement>
+          <TitleElementLevel>01</TitleElementLevel>
+          <TitleText>Det mesta är inte så viktigt</TitleText>
+        </TitleElement>
+      </TitleDetail>
+      <TitleDetail>
+        <TitleType>10</TitleType>
+        <TitleElement>
+          <TitleElementLevel>01</TitleElementLevel>
+          <TitleText>Det mesta är inte så viktigt</TitleText>
+        </TitleElement>
+      </TitleDetail>
+      <Contributor>
+        <SequenceNumber>1</SequenceNumber>
+        <ContributorRole>A01</ContributorRole>
+        <PersonNameInverted>Kronstrand, Mattias</PersonNameInverted>
+        <NamesBeforeKey>Mattias</NamesBeforeKey>
+        <KeyNames>Kronstrand</KeyNames>
+        <ContributorDate>
+          <ContributorDateRole>50</ContributorDateRole>
+          <Date dateformat="05">1970</Date>
+        </ContributorDate>
+      </Contributor>
+      <EditionNumber>1</EditionNumber>
+      <Language>
+        <LanguageRole>01</LanguageRole>
+        <LanguageCode>swe</LanguageCode>
+      </Language>
+      <Extent>
+        <ExtentType>00</ExtentType>
+        <ExtentValue>64</ExtentValue>
+        <ExtentUnit>03</ExtentUnit>
+      </Extent>
+      <Illustrated>01</Illustrated>
+      <Subject>
+        <SubjectSchemeIdentifier>47</SubjectSchemeIdentifier>
+        <SubjectCode>07</SubjectCode>
+        <SubjectHeadingText>Lyrik</SubjectHeadingText>
+      </Subject>
+      <Subject>
+        <SubjectSchemeIdentifier>93</SubjectSchemeIdentifier>
+        <SubjectCode>DC</SubjectCode>
+      </Subject>
+    </DescriptiveDetail>
+    <CollateralDetail>
+    </CollateralDetail>
+    <PublishingDetail>
+      <Publisher>
+        <PublishingRole>01</PublishingRole>
+        <PublisherIdentifier>
+          <PublisherIDType>01</PublisherIDType>
+          <IDTypeName>BR-ID</IDTypeName>
+          <IDValue>4756</IDValue>
+        </PublisherIdentifier>
+        <PublisherIdentifier>
+          <PublisherIDType>01</PublisherIDType>
+          <IDTypeName>Forlag_kortnamn</IDTypeName>
+          <IDValue>KROM</IDValue>
+        </PublisherIdentifier>
+        <PublisherName>Kroma förlag</PublisherName>
+      </Publisher>
+      <Publisher>
+        <PublishingRole>17</PublishingRole>
+        <PublisherName>Printon</PublisherName>
+      </Publisher>
+      <PublishingDate>
+        <PublishingDateRole>01</PublishingDateRole>
+        <Date>20181020</Date>
+      </PublishingDate>
+    </PublishingDetail>
+    <ProductSupply>
+      <SupplyDetail>
+        <Supplier>
+          <SupplierRole>02</SupplierRole>
+          <SupplierIdentifier>
+            <SupplierIDType>01</SupplierIDType>
+            <IDTypeName>BR-ID</IDTypeName>
+            <IDValue>4756</IDValue>
+          </SupplierIdentifier>
+          <SupplierIdentifier>
+            <SupplierIDType>01</SupplierIDType>
+            <IDTypeName>Distributor_kortnamn</IDTypeName>
+            <IDValue>KROM</IDValue>
+          </SupplierIdentifier>
+          <SupplierName>Kroma förlag</SupplierName>
+        </Supplier>
+        <ProductAvailability>10</ProductAvailability>
+        <Stock>
+          <OnHand>0</OnHand>
+        </Stock>
+        <Price>
+          <PriceType>05</PriceType>
+          <PriceAmount>85.00</PriceAmount>
+          <Tax>
+            <TaxType>01</TaxType>
+            <TaxRatePercent>6</TaxRatePercent>
+          </Tax>
+        </Price>
+      </SupplyDetail>
+    </ProductSupply>
+    </Product>
+  <Product>
+    <RecordReference>9783934360976</RecordReference>
+    <NotificationType>03</NotificationType>
+    <ProductIdentifier>
+      <ProductIDType>15</ProductIDType>
+      <IDValue>9783934360976</IDValue>
+    </ProductIdentifier>
+    <ProductIdentifier>
+      <ProductIDType>03</ProductIDType>
+      <IDValue>9783934360983</IDValue>
+    </ProductIdentifier>
+    <DescriptiveDetail>
+      <ProductComposition>00</ProductComposition>
+      <ProductForm>BC</ProductForm>
+      <ProductFormDetail>B310</ProductFormDetail>
+      <Measure>
+        <MeasureType>02</MeasureType>
+        <Measurement>97</Measurement>
+        <MeasureUnitCode>mm</MeasureUnitCode>
+      </Measure>
+      <Measure>
+        <MeasureType>01</MeasureType>
+        <Measurement>147</Measurement>
+        <MeasureUnitCode>mm</MeasureUnitCode>
+      </Measure>
+      <TitleDetail>
+        <TitleType>01</TitleType>
+        <TitleElement>
+          <TitleElementLevel>01</TitleElementLevel>
+          <TitleText>Bön- &amp; psalmbok</TitleText>
+        </TitleElement>
+      </TitleDetail>
+      <TitleDetail>
+        <TitleType>10</TitleType>
+        <TitleElement>
+          <TitleElementLevel>01</TitleElementLevel>
+          <TitleText>Bön- &amp; Psalmbok</TitleText>
+        </TitleElement>
+      </TitleDetail>
+      <EditionNumber>0</EditionNumber>
+      <Language>
+        <LanguageRole>01</LanguageRole>
+        <LanguageCode>swe</LanguageCode>
+      </Language>
+      <Extent>
+        <ExtentType>00</ExtentType>
+        <ExtentValue>64</ExtentValue>
+        <ExtentUnit>03</ExtentUnit>
+      </Extent>
+      <Subject>
+        <SubjectSchemeIdentifier>47</SubjectSchemeIdentifier>
+        <SubjectCode>16</SubjectCode>
+        <SubjectHeadingText>Religion</SubjectHeadingText>
+      </Subject>
+      <Subject>
+        <SubjectSchemeIdentifier>48</SubjectSchemeIdentifier>
+        <SubjectCode>Cead</SubjectCode>
+      </Subject>
+      <Subject>
+        <SubjectSchemeIdentifier>12</SubjectSchemeIdentifier>
+        <SubjectCode>HRCL</SubjectCode>
+      </Subject>
+      <Subject>
+        <SubjectSchemeIdentifier>49</SubjectSchemeIdentifier>
+        <SubjectCode>KOM</SubjectCode>
+      </Subject>
+      <Subject>
+        <SubjectSchemeIdentifier>A2</SubjectSchemeIdentifier>
+        <SubjectHeadingText>Bönböcker</SubjectHeadingText>
+      </Subject>
+      <Subject>
+        <SubjectSchemeIdentifier>A2</SubjectSchemeIdentifier>
+        <SubjectHeadingText>Psalmböcker</SubjectHeadingText>
+      </Subject>
+      <Subject>
+        <SubjectSchemeIdentifier>93</SubjectSchemeIdentifier>
+        <SubjectCode>QRM</SubjectCode>
+      </Subject>
+      <Subject>
+        <SubjectSchemeIdentifier>A9</SubjectSchemeIdentifier>
+        <SubjectCode>RE</SubjectCode>
+      </Subject>
+      <AudienceRange>
+        <AudienceRangeQualifier>21</AudienceRangeQualifier>
+        <AudienceRangePrecision>01</AudienceRangePrecision>
+        <AudienceRangeValue>GY</AudienceRangeValue>
+      </AudienceRange>
+      <AudienceRange>
+        <AudienceRangeQualifier>21</AudienceRangeQualifier>
+        <AudienceRangePrecision>01</AudienceRangePrecision>
+        <AudienceRangeValue>G69</AudienceRangeValue>
+      </AudienceRange>
+      <AudienceRange>
+        <AudienceRangeQualifier>21</AudienceRangeQualifier>
+        <AudienceRangePrecision>01</AudienceRangePrecision>
+        <AudienceRangeValue>G46</AudienceRangeValue>
+      </AudienceRange>
+    </DescriptiveDetail>
+    <CollateralDetail>
+      <TextContent>
+        <TextType>03</TextType>
+        <ContentAudience>00</ContentAudience>
+        <Text>Bön- &amp; Psalmbok
+Många av oss vet inte hur vi ska be eller formulera ord
+till Gud. I Bibeln finns det många exempel på böner, de
+finns framför allt i psalmerna i gamla testamentet. Dessa
+psalmer beskriver människors längtan efter trygghet. De
+beskriver också vårt innersta på ett väldigt starkt sätt.
+Det handlar bland annat om ångest, förtvivlan och rädsla.
+Dessa, flera tusen år gamla psalmer är högaktuella.
+Bön är samtal med Gud, ett personligt samtal.
+I den här Bön- och Psalmboken har vi försökt att
+formulera böner på ett enkelt sätt. Jesus själv lärde oss en
+enkel bön. Den bönen beds över hela världen, Fader Vår.
+Jesus sa: Jag är vägen och sanningen och livet. Ingen
+kommer till Fadern utom genom mig. Det betyder att
+Jesus vill leda oss till Fadern (Vår Gud). Det är därför han
+lärde oss att be denna bön:
+
+Vår fader, du som är i himlen.
+Låt ditt namn bli helgat.
+Låt ditt rike komma.
+Låt din vilja ske,
+på jorden så som i himlen.
+Ge oss i dag vårt bröd för dagen som kommer.
+Och förlåt oss våra skulder,
+liksom vi har förlåtit dem som står i skuld till oss.
+Och utsätt oss inte för prövning,
+utan rädda oss från det onda.
+
+Jesus vill att vi ska ha en nära relation till honom och
+till Gud, vår Fader. Mitt i vardagen ska vi kunna samtala
+med honom och lyssna på honom. Dina böner är inte
+ord i tomma intet, utan när du ber så är det ett personligt
+samtal, där du berättar för Gud hur du har det, vad du
+önskar hjälp med och vad som är på ditt hjärta. Viktigt
+att vi även ska tacka Gud för den hjälp vi får av Honom.
+Vi har mycket att tacka Honom för.
+Välkommen till samtal med Gud  Han kommer att
+lyssna på dig och hjälpa dig.
+Roul och Birgit Åkesson
+Bible for the Nations</Text>
+      </TextContent>
+      <TextContent>
+        <TextType>02</TextType>
+        <ContentAudience>00</ContentAudience>
+        <Text>Bön- &amp; psalmboken
+Bön är samtal med Gud, inte så svårt egentligen.
+Mitt i vardagen kan vi samtala med Gud och
+lyssna på honom.
+Bön är inte ord ut i tomma intet, du får berätta hur
+du har det, vad du önskar hjälp med och vad som
+ligger på ditt hjärta. Och glöm inte att tacka Gud.
+Vi har mycket att tacka honom för.
+Den här boken hjälper dig att börja be, genom
+skrivna böner, psalmer, bibelord och sånger.
+Välkommen till samtal med Gud.
+Han kommer att lyssna på dig och hjälpa dig.</Text>
+      </TextContent>
+      <SupportingResource>
+        <ResourceContentType>01</ResourceContentType>
+        <ContentAudience>00</ContentAudience>
+        <ResourceMode>03</ResourceMode>
+        <ResourceVersion>
+          <ResourceForm>02</ResourceForm>
+          <ResourceLink>https://shopcdn.textalk.se/shop/ws97/78897/art97/h2841/159692841-origpic-ea1429.jpg?max-width=1440&amp;max-height=1440&amp;quality=50</ResourceLink>
+        </ResourceVersion>
+      </SupportingResource>
+    </CollateralDetail>
+    <PublishingDetail>
+      <Publisher>
+        <PublishingRole>01</PublishingRole>
+        <PublisherIdentifier>
+          <PublisherIDType>01</PublisherIDType>
+          <IDTypeName>BR-ID</IDTypeName>
+          <IDValue>3967</IDValue>
+        </PublisherIdentifier>
+        <PublisherIdentifier>
+          <PublisherIDType>01</PublisherIDType>
+          <IDTypeName>Forlag_kortnamn</IDTypeName>
+          <IDValue>BFTN</IDValue>
+        </PublisherIdentifier>
+        <PublisherName>Bible for the Nations</PublisherName>
+      </Publisher>
+      <PublishingDate>
+        <PublishingDateRole>01</PublishingDateRole>
+        <Date>20101125</Date>
+      </PublishingDate>
+    </PublishingDetail>
+    <ProductSupply>
+      <SupplyDetail>
+        <Supplier>
+          <SupplierRole>02</SupplierRole>
+          <SupplierIdentifier>
+            <SupplierIDType>01</SupplierIDType>
+            <IDTypeName>BR-ID</IDTypeName>
+            <IDValue>3967</IDValue>
+          </SupplierIdentifier>
+          <SupplierIdentifier>
+            <SupplierIDType>01</SupplierIDType>
+            <IDTypeName>Distributor_kortnamn</IDTypeName>
+            <IDValue>BFTN</IDValue>
+          </SupplierIdentifier>
+          <SupplierName>Bible for the Nations</SupplierName>
+        </Supplier>
+        <ProductAvailability>21</ProductAvailability>
+        <Stock>
+          <OnHand>-1</OnHand>
+        </Stock>
+        <Price>
+          <PriceType>05</PriceType>
+          <PriceAmount>35.00</PriceAmount>
+          <Tax>
+            <TaxType>01</TaxType>
+            <TaxRatePercent>6</TaxRatePercent>
+          </Tax>
+        </Price>
+      </SupplyDetail>
+    </ProductSupply>
+    </Product>
+</ONIXMessage>

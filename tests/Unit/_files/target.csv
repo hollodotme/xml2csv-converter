@@ -1,0 +1,75 @@
+RecordReference;NotificationType;ProductIdentifier/0/ProductIDType;ProductIdentifier/0/IDValue;ProductIdentifier/1/ProductIDType;ProductIdentifier/1/IDValue;DescriptiveDetail/ProductComposition;DescriptiveDetail/ProductForm;DescriptiveDetail/TitleDetail/0/TitleType;DescriptiveDetail/TitleDetail/0/TitleElement/TitleElementLevel;DescriptiveDetail/TitleDetail/0/TitleElement/TitleText;DescriptiveDetail/TitleDetail/1/TitleType;DescriptiveDetail/TitleDetail/1/TitleElement/TitleElementLevel;DescriptiveDetail/TitleDetail/1/TitleElement/TitleText;DescriptiveDetail/Contributor/SequenceNumber;DescriptiveDetail/Contributor/ContributorRole;DescriptiveDetail/Contributor/PersonNameInverted;DescriptiveDetail/Contributor/NamesBeforeKey;DescriptiveDetail/Contributor/KeyNames;DescriptiveDetail/Contributor/ContributorDate/ContributorDateRole;DescriptiveDetail/Contributor/ContributorDate/Date/_dateformat;DescriptiveDetail/Contributor/ContributorDate/Date/__text;DescriptiveDetail/EditionNumber;DescriptiveDetail/Language/LanguageRole;DescriptiveDetail/Language/LanguageCode;DescriptiveDetail/Extent/ExtentType;DescriptiveDetail/Extent/ExtentValue;DescriptiveDetail/Extent/ExtentUnit;DescriptiveDetail/Illustrated;DescriptiveDetail/AncillaryContent/AncillaryContentType;DescriptiveDetail/AncillaryContent/AncillaryContentDescription;DescriptiveDetail/AncillaryContent/Number;DescriptiveDetail/Subject/0/SubjectSchemeIdentifier;DescriptiveDetail/Subject/0/SubjectCode;DescriptiveDetail/Subject/0/SubjectHeadingText;DescriptiveDetail/Subject/1/SubjectSchemeIdentifier;DescriptiveDetail/Subject/1/SubjectCode;DescriptiveDetail/Subject/2/SubjectSchemeIdentifier;DescriptiveDetail/Subject/2/SubjectCode;CollateralDetail/TextContent/0/TextType;CollateralDetail/TextContent/0/ContentAudience;CollateralDetail/TextContent/0/Text;CollateralDetail/TextContent/1/TextType;CollateralDetail/TextContent/1/ContentAudience;CollateralDetail/TextContent/1/Text;CollateralDetail/SupportingResource/ResourceContentType;CollateralDetail/SupportingResource/ContentAudience;CollateralDetail/SupportingResource/ResourceMode;CollateralDetail/SupportingResource/ResourceVersion/ResourceForm;CollateralDetail/SupportingResource/ResourceVersion/ResourceLink;PublishingDetail/Publisher/0/PublishingRole;PublishingDetail/Publisher/0/PublisherIdentifier/0/PublisherIDType;PublishingDetail/Publisher/0/PublisherIdentifier/0/IDTypeName;PublishingDetail/Publisher/0/PublisherIdentifier/0/IDValue;PublishingDetail/Publisher/0/PublisherIdentifier/1/PublisherIDType;PublishingDetail/Publisher/0/PublisherIdentifier/1/IDTypeName;PublishingDetail/Publisher/0/PublisherIdentifier/1/IDValue;PublishingDetail/Publisher/0/PublisherName;PublishingDetail/PublishingDate/PublishingDateRole;PublishingDetail/PublishingDate/Date;ProductSupply/SupplyDetail/Supplier/SupplierRole;ProductSupply/SupplyDetail/Supplier/SupplierIdentifier/0/SupplierIDType;ProductSupply/SupplyDetail/Supplier/SupplierIdentifier/0/IDTypeName;ProductSupply/SupplyDetail/Supplier/SupplierIdentifier/0/IDValue;ProductSupply/SupplyDetail/Supplier/SupplierIdentifier/1/SupplierIDType;ProductSupply/SupplyDetail/Supplier/SupplierIdentifier/1/IDTypeName;ProductSupply/SupplyDetail/Supplier/SupplierIdentifier/1/IDValue;ProductSupply/SupplyDetail/Supplier/SupplierName;ProductSupply/SupplyDetail/ProductAvailability;ProductSupply/SupplyDetail/Stock/OnHand;ProductSupply/SupplyDetail/Price/PriceType;ProductSupply/SupplyDetail/Price/PriceAmount;ProductSupply/SupplyDetail/Price/Tax/TaxType;ProductSupply/SupplyDetail/Price/Tax/TaxRatePercent;DescriptiveDetail/ProductFormDetail;DescriptiveDetail/Measure/0/MeasureType;DescriptiveDetail/Measure/0/Measurement;DescriptiveDetail/Measure/0/MeasureUnitCode;DescriptiveDetail/Measure/1/MeasureType;DescriptiveDetail/Measure/1/Measurement;DescriptiveDetail/Measure/1/MeasureUnitCode;DescriptiveDetail/Measure/2/MeasureType;DescriptiveDetail/Measure/2/Measurement;DescriptiveDetail/Measure/2/MeasureUnitCode;DescriptiveDetail/CountryOfManufacture;PublishingDetail/Publisher/1/PublishingRole;PublishingDetail/Publisher/1/PublisherName;DescriptiveDetail/Subject/3/SubjectSchemeIdentifier;DescriptiveDetail/Subject/3/SubjectCode;DescriptiveDetail/Subject/4/SubjectSchemeIdentifier;DescriptiveDetail/Subject/4/SubjectHeadingText;DescriptiveDetail/Subject/5/SubjectSchemeIdentifier;DescriptiveDetail/Subject/5/SubjectHeadingText;DescriptiveDetail/Subject/6/SubjectSchemeIdentifier;DescriptiveDetail/Subject/6/SubjectCode;DescriptiveDetail/Subject/7/SubjectSchemeIdentifier;DescriptiveDetail/Subject/7/SubjectCode;DescriptiveDetail/AudienceRange/0/AudienceRangeQualifier;DescriptiveDetail/AudienceRange/0/AudienceRangePrecision;DescriptiveDetail/AudienceRange/0/AudienceRangeValue;DescriptiveDetail/AudienceRange/1/AudienceRangeQualifier;DescriptiveDetail/AudienceRange/1/AudienceRangePrecision;DescriptiveDetail/AudienceRange/1/AudienceRangeValue;DescriptiveDetail/AudienceRange/2/AudienceRangeQualifier;DescriptiveDetail/AudienceRange/2/AudienceRangePrecision;DescriptiveDetail/AudienceRange/2/AudienceRangeValue
+9789186907228;02;15;9789186907228;03;9789186907228;00;BE;01;01;Min Bucket List - Allt jag ska göra innan de släcker lyset;10;01;Min Bucket List - Allt jag ska göra innan de släcker lyset;1;A01;Ekberg, Stefan;Stefan;Ekberg;50;05;1965;0;01;swe;00;240;03;02;00;Number of illustrated pages;20;47;36;Hälsa, skönhet och sex;48;Dokb;93;VS;03;00;"Har du tänkt på hur många människor som pratar om sin ""bucket list"" utan att egentligen ha en på riktigt?
+
+- Det där ska med på min Bucket list, säger folk lite kaxigt när det dyker upp en video om någon som klättrat baklänges uppför Mount Everest, tagit selfies med de stora kattdjuren eller bara lagat mat från grunden en gång i livet.
+
+Tolv sekunder senare...
+- Titta, vad är det som blänker där borta?
+
+Och så har de glömt allt.
+
+Det finns ingen nedskriven plan för att göra de där drömgrejorna. Det är bara ord, lika flyktiga som en avlöning i december. Den där listan man kan ta på, titta på, drömma sig bort i finns inte, eller rättare sagt, fanns inte.
+
+För nu finns den.
+
+I den här boken får du inte bara flera hundra idéer om vad du skulle kunna ha på din egen bucket list, du får också mål och drömmar uppdelade i 25 kapitel inom livets alla områden där du själv kan skriva ner vad du vill göra. Ja, och när du planerar att göra det och till och med bocka av när du har gjort det.
+
+Den perfekta presenten till dig själv eller någon annan du verkligen tycker om";02;00;Boken som hjälper dig att skapa din egen lista över mål, drömmar och önskningar som du vill förverkliga i ditt liv.;01;00;03;02;https://www.redaktionen.se/imagebank/899.gif;01;01;BR-ID;4045;01;Forlag_kortnamn;EFIS;Ego förlag i Stockholm;01;20180910;02;01;BR-ID;4045;01;Distributor_kortnamn;EFIS;Ego förlag i Stockholm;21;999;05;240.00;01;6;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+9789163980749;02;15;9789163980749;03;9789163980749;00;BC;01;01;Det mesta är inte så viktigt;10;01;Det mesta är inte så viktigt;1;A01;Kronstrand, Mattias;Mattias;Kronstrand;50;05;1970;1;01;swe;00;64;03;01;;;;47;07;Lyrik;93;DC;;;;;;;;;;;;;;01;01;BR-ID;4756;01;Forlag_kortnamn;KROM;Kroma förlag;01;20181020;02;01;BR-ID;4756;01;Distributor_kortnamn;KROM;Kroma förlag;10;0;05;85.00;01;6;B504;02;12;mm;01;17;mm;03;10;mm;EE;17;Printon;;;;;;;;;;;;;;;;;;;
+9783934360976;03;15;9783934360976;03;9783934360983;00;BC;01;01;Bön- & psalmbok;10;01;Bön- & Psalmbok;;;;;;;;;0;01;swe;00;64;03;;;;;47;16;Religion;48;Cead;12;HRCL;03;00;"Bön- & Psalmbok
+Många av oss vet inte hur vi ska be eller formulera ord
+till Gud. I Bibeln finns det många exempel på böner, de
+finns framför allt i psalmerna i gamla testamentet. Dessa
+psalmer beskriver människors längtan efter trygghet. De
+beskriver också vårt innersta på ett väldigt starkt sätt.
+Det handlar bland annat om ångest, förtvivlan och rädsla.
+Dessa, flera tusen år gamla psalmer är högaktuella.
+Bön är samtal med Gud, ett personligt samtal.
+I den här Bön- och Psalmboken har vi försökt att
+formulera böner på ett enkelt sätt. Jesus själv lärde oss en
+enkel bön. Den bönen beds över hela världen, Fader Vår.
+Jesus sa: Jag är vägen och sanningen och livet. Ingen
+kommer till Fadern utom genom mig. Det betyder att
+Jesus vill leda oss till Fadern (Vår Gud). Det är därför han
+lärde oss att be denna bön:
+
+Vår fader, du som är i himlen.
+Låt ditt namn bli helgat.
+Låt ditt rike komma.
+Låt din vilja ske,
+på jorden så som i himlen.
+Ge oss i dag vårt bröd för dagen som kommer.
+Och förlåt oss våra skulder,
+liksom vi har förlåtit dem som står i skuld till oss.
+Och utsätt oss inte för prövning,
+utan rädda oss från det onda.
+
+Jesus vill att vi ska ha en nära relation till honom och
+till Gud, vår Fader. Mitt i vardagen ska vi kunna samtala
+med honom och lyssna på honom. Dina böner är inte
+ord i tomma intet, utan när du ber så är det ett personligt
+samtal, där du berättar för Gud hur du har det, vad du
+önskar hjälp med och vad som är på ditt hjärta. Viktigt
+att vi även ska tacka Gud för den hjälp vi får av Honom.
+Vi har mycket att tacka Honom för.
+Välkommen till samtal med Gud  Han kommer att
+lyssna på dig och hjälpa dig.
+Roul och Birgit Åkesson
+Bible for the Nations";02;00;"Bön- & psalmboken
+Bön är samtal med Gud, inte så svårt egentligen.
+Mitt i vardagen kan vi samtala med Gud och
+lyssna på honom.
+Bön är inte ord ut i tomma intet, du får berätta hur
+du har det, vad du önskar hjälp med och vad som
+ligger på ditt hjärta. Och glöm inte att tacka Gud.
+Vi har mycket att tacka honom för.
+Den här boken hjälper dig att börja be, genom
+skrivna böner, psalmer, bibelord och sånger.
+Välkommen till samtal med Gud.
+Han kommer att lyssna på dig och hjälpa dig.";01;00;03;02;https://shopcdn.textalk.se/shop/ws97/78897/art97/h2841/159692841-origpic-ea1429.jpg?max-width=1440&max-height=1440&quality=50;01;01;BR-ID;3967;01;Forlag_kortnamn;BFTN;Bible for the Nations;01;20101125;02;01;BR-ID;3967;01;Distributor_kortnamn;BFTN;Bible for the Nations;21;-1;05;35.00;01;6;B310;02;97;mm;01;147;mm;;;;;;;49;KOM;A2;Bönböcker;A2;Psalmböcker;93;QRM;A9;RE;21;01;GY;21;01;G69;21;01;G46
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
